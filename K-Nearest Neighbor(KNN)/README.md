@@ -1,4 +1,4 @@
-# Decison Tree
+# K-Nearest Neighbor(KNN)
 Library: scikit-learn </br>
 Package: Anaconda </br>
-Visualize: Graphviz
+Data set: iris-data
