@@ -15,6 +15,7 @@ iris = datasets.load_iris()
 print (iris)
 
 #Training Data
+#iris.data: eigenvector formed by data, iris.target: target name
 knn.fit(iris.data, iris.target)
 
 #Perdict data 
