@@ -39,11 +39,14 @@ print ("a: ", a)
 print ("support_vectors_: ", clf.support_vectors_)
 print ("clf.coef_: ", clf.coef_)
 
-# In scikit-learn coef_ attribute holds the vectors of the separating hyperplanes for linear models. It has shape (n_classes, n_features) if n_classes > 1 (multi-class one-vs-all) and (1, n_features) for binary classification.
+# In scikit-learn coef_ attribute holds the vectors of the separating hyperplanes for linear models. 
+# It has shape (n_classes, n_features) if n_classes > 1 (multi-class one-vs-all) and (1, n_features) for binary classification.
 # 
-# In this toy binary classification example, n_features == 2, hence w = coef_[0] is the vector orthogonal to the hyperplane (the hyperplane is fully defined by it + the intercept).
+# In this toy binary classification example, n_features == 2, 
+# Hence w = coef_[0] is the vector orthogonal to the hyperplane (the hyperplane is fully defined by it + the intercept).
 # 
-# To plot this hyperplane in the 2D case (any hyperplane of a 2D plane is a 1D line), we want to find a f as in y = f(x) = a.x + b. In this case a is the slope of the line and can be computed by a = -w[0] / w[1].
+# To plot this hyperplane in the 2D case (any hyperplane of a 2D plane is a 1D line), find a f as in y = f(x) = a.x + b. 
+# In this case a is the slope of the line and can be computed by a = -w[0] / w[1].
 
 
 
