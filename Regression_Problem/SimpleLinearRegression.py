@@ -1,7 +1,7 @@
 '''
 Created on Apr 12, 2017
 
-@author: Admin
+@author: Leo Zhong
 '''
 
 import numpy as np
