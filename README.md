@@ -9,7 +9,7 @@
 
 [4. Neural Network](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)</br>
 
-[5. Regression Problem](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Regression_Problem)</br>
+[5. Regression](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Regression_Problem)</br>
 
 
 
