@@ -1,4 +1,4 @@
-# Machine-Learning-Practice
+# Machine Learning Practice
 
 ## Simple Applications 
 [Face Rcognition: using SVM](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
