@@ -1,6 +1,19 @@
 # Machine Learning Practice
 
-## Simple Applications 
-[Face Rcognition: using SVM](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
+# Topic
+[1. Decison Tree](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Decision_Tree)</br>
 
-[Digits Rcognition: using Neural Network](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)</br>
+[2. K-Nearest Neighbor(KNN)](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/K_Nearest_Neighbor(KNN))</br>
+
+[3. SVM](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
+
+[4. Neural Network](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)</br>
+
+[5. Regression Problem](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Regression_Problem)</br>
+
+
+
+## Simple Applications 
+[1. Face Rcognition: using SVM](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
+
+[2. Digits Rcognition: using Neural Network](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Neural_Network)</br>
