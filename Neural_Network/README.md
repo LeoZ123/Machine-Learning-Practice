@@ -4,7 +4,7 @@
 
 <img src="https://github.com/LeoZ123/Machine-Learning-Practice/blob/master/Neural_Network/img/Image2.png">
 
-## Digits Rcognition
+## Digits Recognition
 
 Data Set: sklearn load_digits </br>
 <img src="https://github.com/LeoZ123/Machine-Learning-Practice/blob/master/Neural_Network/img/digits0.png"> </br>
