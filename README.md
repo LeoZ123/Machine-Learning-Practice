@@ -1,6 +1,6 @@
 # Machine Learning Practice
 
-# Topic
+# Topics
 [1. Decison Tree](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Decision_Tree)</br>
 
 [2. K-Nearest Neighbor(KNN)](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/K_Nearest_Neighbor(KNN))</br>
