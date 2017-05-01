@@ -11,7 +11,7 @@
 
 [5. Regression](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Regression_Problem)</br>
 
-[6. K-means](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/K-means)</br>
+[6. K-Means](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/K-means)</br>
 
 
 
