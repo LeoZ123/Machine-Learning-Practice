@@ -13,6 +13,8 @@
 
 [6. K-Means](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/K-means)</br>
 
+[7. Hierarchical Clustering](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Hierarchical_Clustering)</br>
+
 
 
 ## Simple Applications 
