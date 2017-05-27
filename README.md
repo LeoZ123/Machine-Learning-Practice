@@ -15,6 +15,7 @@
 
 [7. Hierarchical Clustering](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Hierarchical_Clustering)</br>
 
+[8. Gradient_Descent](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Gradient_Descent)</br>
 
 
 ## Simple Applications 
