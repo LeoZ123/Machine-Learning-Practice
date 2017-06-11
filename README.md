@@ -17,6 +17,9 @@
 
 [8. Gradient Descent](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Gradient_Descent)</br>
 
+## Coursera Exercises
+
+[ex1: Linear Regression](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Coursera-Exercises/machine-learning-ex1)</br>
 
 ## Simple Applications 
 [1. Face Rcognition: using SVM](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Support_Vector_Machine(SVM))</br>
