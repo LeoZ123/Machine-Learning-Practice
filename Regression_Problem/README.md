@@ -1,4 +1,4 @@
 
 ## Coursera Exercises
 
-[Linear Regression](https://github.com/LeoZ123/Machine-Learning-Practice/tree/master/Coursera-Exercises/machine-learning-ex1)</br>
+[Linear Regression](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex1)</br>
