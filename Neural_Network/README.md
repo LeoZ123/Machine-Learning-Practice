@@ -15,3 +15,7 @@ Output: </br>
 horizontal and vertical represent number 1 to 9</br>
 1: predict wrong </br>
 diagonal line: predict correct
+
+## Coursera Exercises
+
+[Multi-class Classification](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex3)</br>
