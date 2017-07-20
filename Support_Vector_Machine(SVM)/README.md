@@ -14,4 +14,4 @@ Data set: Random Number</br>
 
 ## Coursera Exercises
 
-[Linear Regression](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex2)</br>
+[Logistic Regression](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex2)</br>
