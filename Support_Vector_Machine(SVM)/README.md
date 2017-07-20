@@ -12,3 +12,6 @@ Data set: Random Number</br>
 
 <img src="https://github.com/LeoZ123/Machine-Learning-Practice/blob/master/Support_Vector_Machine(SVM)/face.png">
 
+## Coursera Exercises
+
+[Linear Regression](https://github.com/LeoZ123/Machine-Learning-Coursera/tree/master/machine-learning-ex2)</br>
